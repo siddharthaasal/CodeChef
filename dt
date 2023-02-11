@@ -1,0 +1,3 @@
+analog -> i/p
+digital -> i/p + o/p    pinMode
+
